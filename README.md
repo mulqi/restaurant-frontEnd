@@ -1,4 +1,4 @@
-# restaurant-backEnd
+# restaurant-frontEnd
 
 ## Setup Environment
 
