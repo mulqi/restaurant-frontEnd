@@ -5,7 +5,7 @@
 1. Clone Git Repo ini
    `git clone https://github.com/mulqi/restaurant-frontEnd`
 
-2. inisialisasi NPM
+2. inisialisasi NPM ( jika member lain menambahkan depedency)
    `npm install`
 
 ## Workflow Git (Tata cara)
