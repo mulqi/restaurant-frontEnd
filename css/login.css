@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+.navbar {
+  height: 121px;
+  border-radius: 0px 0px 15px 15px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+}
+.navbar img {
+  position: relative;
+  margin-top: 30px;
+  left: 60px;
+}
+.navbar a {
+  position: relative;
+  top: -17px;
+  left: 47px;
+  text-decoration: none;
+}
+
+.container {
+  width: 978px;
+  left: 226px;
+  top: 304px;
+  margin-top: 50px;
+  padding: 30px;
+  background: transparent;
+  border-radius: 20px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(30px);
+  box-shadow: 2px 5px 25px rgba(0, 0, 0, 0.7);
+}
+.container h2 {
+  margin-bottom: 30px;
+}
+.container form {
+  margin-bottom: 0;
+}
+.container .form-control:focus {
+  border-color: #007bff;
+  box-shadow: none;
+}
+.container .btn {
+  width: 100%;
+  margin-top: 10px;
+}
+.container img {
+  float: right;
+  height: 350px;
+}
+
+.card-footer {
+  top: 50px;
+  position: relative;
+  color: white;
+  background-color: #414141;
+  border-radius: 15px 15px 0px 0px;
+}/*# sourceMappingURL=login.css.map */
